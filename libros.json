@@ -2,8 +2,8 @@
   "libros":[
     {
       "id": 1,
-      "title": "IT",
-      "author": "Stephen King"
+      "title": "El Hobbit",
+      "author": "J.R.R. Tolkien"
     },
     {
       "id": 2,
@@ -17,13 +17,13 @@
     },
     {
       "id": 4,
-      "title": "Atrapado por los buitres",
-      "author": "Mariana Neira"
+      "title": "La ultima oportunidad",
+      "author": "Carlos Sanchez"
     },
     {
       "id": 5,
-      "title": "Doce cuentos peregrinos",
-      "author": "Gabriel García Márquez"
+      "title": "Sangre de Campeon",
+      "author": "Carlos Sanchez"
     }
   ]
 }
