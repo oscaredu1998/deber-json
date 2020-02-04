@@ -1,0 +1,29 @@
+{
+  "libros":[
+    {
+      "id": 1,
+      "title": "IT",
+      "author": "Stephen King"
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter",
+      "author": " J. K. Rowling"
+    },
+    {
+      "id": 3,
+      "title": "Divina comedia",
+      "author": "Dante Alighieri"
+    },
+    {
+      "id": 4,
+      "title": "Atrapado por los buitres",
+      "author": "Mariana Neira"
+    },
+    {
+      "id": 5,
+      "title": "Doce cuentos peregrinos",
+      "author": "Gabriel García Márquez"
+    }
+  ]
+}
